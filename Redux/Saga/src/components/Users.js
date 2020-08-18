@@ -2,11 +2,9 @@ import React ,{Component}from 'react';
 import { connect } from 'react-redux'
 
 
-
- class Hello extends Component {
+class Hello extends Component {
    
-
-  render(){
+render(){
   
   return (
       <center>
